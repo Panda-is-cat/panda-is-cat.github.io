@@ -137,14 +137,14 @@
             <ul class="post-list">
                 <li class="post-item">
                     <a href="#">
-                        <div class="post-date">2023年 10月 24日</div>
+                        <div class="post-date">2026年 1月 20日</div>
                         <h3 class="post-title">为什么熊猫喜欢吃竹子？</h3>
                         <p class="post-excerpt">这就像猫喜欢吃猫草一样，是一种谜一般的信仰...</p>
                     </a>
                 </li>
                 <li class="post-item">
                     <a href="#">
-                        <div class="post-date">2023年 10月 20日</div>
+                        <div class="post-date">2026年 1月 20日</div>
                         <h3 class="post-title">Hello World</h3>
                         <p class="post-excerpt">这是我的第一篇博客，用于测试 Cloudflare 的部署。</p>
                     </a>
