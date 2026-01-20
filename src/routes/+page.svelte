@@ -155,7 +155,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2023 Panda is Cat. Hosted on Cloudflare Pages.</p>
+        <p>&copy; 2026 Panda is Cat. Hosted on Cloudflare Pages.</p>
     </footer>
 
 </body>
